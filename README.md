@@ -1,4 +1,4 @@
-# Cookie Feeder v1.0
+# Cookie Feeder v1.0 (19 July, 2011)
 
 ## 1. What is cookie feeder?
 
