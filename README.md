@@ -77,8 +77,7 @@ smelling (and tasting probably) like fresh baked cookies?" - User question.
 Not me, I am not responsible for any damage associated 
 with the usage or misusage of the cookie feeder.... but if 
 any of the above or similar cases happen to you, it might be 
-a good idea to warn other users at: http://cookie-
-feeder.blogspot.com
+a good idea to warn other users at: http://cookie-feeder.blogspot.com
 
 
 ## 8. What kind of operating system is the program compatible with?
