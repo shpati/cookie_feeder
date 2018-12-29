@@ -40,8 +40,7 @@ file is separated by a line containing only the three
 consecutive characters ###. The file starts with a ### line 
 and after every cookie there is a ### line. That is the only 
 rule, within these lines characters you can write your 
-message 
-(i.e. cookie). 
+message (i.e. cookie). 
 
 
 ## 4. Where to find cookies?
@@ -55,25 +54,25 @@ create some cookies yourself and share them in the blog:
 http://cookie-feeder.blogspot.com
 
 
-## 5. How much does this program cost? Can I copy 
-it/distribute?
+## 5. How much does this program cost? Can I copy it/distribute?
 
 The program is a freeware. Copy and distribute it, but leave 
 it as it is. It is made in Visual Basic and honestly it took very 
 little time to make...
 
 
-## 6. Do you accept suggestions? Can we report bugs to the 
-blog?
+## 6. Do you accept suggestions? Can we report bugs to the blog?
 
 Yes, not only suggestions and bugs, but also your cookies if 
 you can, mmmmm. Btw: no spam!
 
 
-## 7. Who is responsible if after running the program, my 
+## 7. Who is responsible?
+
+"Who is responsible if after running the program, my 
 house catches fire, my city gets devastated by a hurricane, 
 I get sick, my dog bites the neighbor, or the computer starts 
-smelling (and tasting probably) like fresh baked cookies?
+smelling (and tasting probably) like fresh baked cookies?" - User question.
 
 Not me, I am not responsible for any damage associated 
 with the usage or misusage of the cookie feeder.... but if 
