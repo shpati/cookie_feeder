@@ -82,4 +82,4 @@ a good idea to warn other users at: http://cookie-feeder.blogspot.com
 
 ## 8. What kind of operating system is the program compatible with?
 
-Windows 95, 98, ME, 2000, XP, 7, 8, 10 (you may need to place the OCX file included in the same folder as the main program)
+Windows 95, 98, ME, 2000, XP, 7 (you may need to place the OCX file included in the same folder as the main program)
