@@ -1,5 +1,7 @@
 # Cookie Feeder 2.0
 
+![Cookie Feeder](CF.png "Cookie Feeder")
+
 ## What is Cookie Feeder?
 
 Cookie Feeder is a tiny program that is used to deliver short messages contained in a simple text file. The messages or "cookies" can be jokes, quotations, thoughts, song lyrics, stories, exam questions (to exercise like with flashcards) or even random numbers! Anyone can modify the text file or use his/her own text file that contains the wanted messages. 
